@@ -1,0 +1,8 @@
+Packages - short, all-lowercase names. Preferably no underscores. utilities
+Modules - short, all-lowercase names. Can have underscore. db_utils dbutils
+Classes - CapWords(upper camel case) convention. BankAccount
+Functions - lowercase, words separated by underscores (snake_case). open_account
+Variables  - lowercase, words separated by underscores (snake_case).  account_id
+Constants - all-uppercase, words separated by underscores. MIN-APR
+
+https://www.python.org/dev/peps/pep-0008/
